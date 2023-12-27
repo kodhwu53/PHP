@@ -50,6 +50,11 @@ fclose($myfile);
 ?>
 
   <?php
+// Start the session
+session_start();
+?>
+
+  <?php
 $myfile = fopen("newfile.txt", "w") or die("Unable to open file!");
 $txt = "John Doe\n";
 fwrite($myfile, $txt);
