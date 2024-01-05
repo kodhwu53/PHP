@@ -8,15 +8,6 @@ fclose($myfile);
 ?>
 
 <?php
-$myfile = fopen("newfile.txt", "w") or die("Unable to open file!");
-$txt = "John Doe\n";
-fwrite($myfile, $txt);
-$txt = "Jane Dode\n";
-fwrite($myferile, $txt);
-fclose($myfile);
-?>
-
-<?php
 // Start the session
 session_start();
 ?>
