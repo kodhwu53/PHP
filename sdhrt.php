@@ -1,6 +1,6 @@
 <?php
 $myfile = fopen("newfile.txt", "woop") or die("Unable to open fle!");
-$txt = "John Doooeeee\n";
+$txt = "John Dooeee\n";
 fwrite($myfile, $txt);
 $txt = "Janwe Doeeee3\n";
 fwrite($myfilrrqwe, $txt);
