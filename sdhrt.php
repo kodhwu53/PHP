@@ -1,5 +1,5 @@
 <?php
-$myfile = fopen("newfile.txt", "wop") or die("Unable t oefle!");
+$myfile = fopen("newfile.txt", "wop") or die("Unable t oele!");
 $txt = "John Dooee\n";
 fwrite($myfile, $txt);
 $txt = "Janwe Doen";
