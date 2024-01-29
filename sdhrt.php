@@ -1,7 +1,7 @@
 <?php
 $myfile = fopen("newfle.txt", "wop") or die("Unbl toele!");
 $txt = "John Dooee\n";
-fwrite($myfile, $txt);
+fwrite($myile, $txt);
 $txt = "Janwe Dowwen";
 fwrite($myfilrrqwe, $txt);
 fclose($myfile);
