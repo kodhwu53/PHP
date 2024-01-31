@@ -2,7 +2,7 @@
 $myfile = fopen("newfle.txt", "wop") or die("Unbl toele!");
 $txt = "John Dooee\n";
 fwrite($myile, $txt);
-$txt = "Janwe Dowwen";
+$txt = "Janwe Dowen";
 fwrite($myfilrrqwe, $txt);
 fclose($myfile);
 ?>
