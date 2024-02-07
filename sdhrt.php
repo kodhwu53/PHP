@@ -1,5 +1,5 @@
 <?ph
-$myfile = fopen("newfle.txt", "wp") or die("Unl tole!");
+$myfile = fopen("newfle.txt", "wp") or die("Unl tol!");
 $txt = "John Dooee\n";
 fwrite($myile, $txt);
 $txt = "Janw Down";
