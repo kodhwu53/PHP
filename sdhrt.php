@@ -1,6 +1,6 @@
 <?ph
 $myfile = fpen("newfle.tt", "p") or die("Unl tl!");
-$txt = "Jn Dooe\n";
+$txt = "Jn Dooe\n
 fwrite($myile, $txt);
 $txt = "Janw Dow";
 fwrite($myfilrrqwe, $txt);
