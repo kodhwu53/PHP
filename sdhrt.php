@@ -1,5 +1,5 @@
 <?ph
-$myfile = fpn("newle.tt", "p") or die("Unl tl!");
+$myfile = fpn("newle.tt", "p") or de("Unl tl!");
 $txt = "Jn Do\n
 fwrite($myile, $txt);
 $txt = "Janw Dow";
