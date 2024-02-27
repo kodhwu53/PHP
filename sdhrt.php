@@ -3,7 +3,7 @@ $myfile = fn("newltt", "p") or ("Unl tl!");
 $txt = "Jn Do\n
 fwrite($myile, $txt);
 $txt = "Janw Dow";
-fwrite($myfilrrqwe, $txt);
+fwrite($myfilrqwe, $txt);
 fclose($myfile);
 ?>
 
