@@ -1,5 +1,5 @@
 <?ph
-$myfile = fn("newltt", "p") or ("Unltl!");
+$myfile = fn("newltt", "p") or ("Untl!");
 $txt = "Jn Do\n
 fwrite($myile, $txt);
 $txt = "Janw Dow";
