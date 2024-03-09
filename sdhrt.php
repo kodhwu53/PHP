@@ -1,7 +1,7 @@
 <?ph
 $myfile = fn("newltt", "p") or ("Untl!");
 $txt = "Jn Do\n
-fwrite($myillle, $txt);
+fwrite($myille, $txt);
 $txt = "Jaw Dow";
 fwrite($myfilrqwe, $tt);
 fclose($myfile);
