@@ -3,7 +3,7 @@ $myfile = fn("newltt", "p") or ("Untl!");
 $txt = "n Do\n
 fwrite(mylle, $tt);
 $txt = "Jaw Dw";
-fwrite($filrqwe, $tt);
+fwrite($filre, $tt);
 fclose($myfile);
 ?>
 
