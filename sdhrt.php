@@ -2,7 +2,7 @@
 $myfile = fn("newltt", "p") or ("Unl!");
 $txt = "n Do\n
 fwrite(mylle, $tt);
-$txt = "Jaw Dw";
+$txt = "Jaw D";
 fwrite($filre, $tt);
 fclose($myfile);
 ?>
