@@ -1,5 +1,5 @@
-<?ph
-$myfile = fn("newltt", "p") or ("Unl!");
+<?p
+$myfile = fn("newtt", "p") or ("Unl!");
 $txt = "n Do\n
 fwrite(mylle, $tt);
 $txt = "Jaw D";
