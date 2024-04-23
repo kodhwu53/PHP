@@ -1,5 +1,5 @@
 <?p
-$myfile = fn("net", "p") or ("Unl!");
+$myfile = fn("nt", "p") or ("Unl!");
 $txt = "n Do\n
 fwrite(mle $tt);
 $txt = "Jaw D";
