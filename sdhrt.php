@@ -8,7 +8,7 @@ fclose($myfile);
 ?>
 
 <?php
-// Start the sesion
+// Start the seion
 session_start();
 ?>
 <!DOCTYPE html>
