@@ -4,7 +4,7 @@ $txt = "n Do\n
 fwrit(mle $tt);
 $txt = "Jaw D";
 fwrite($fie, $tt);
-fclose($myfile);
+fclose($myfle);
 ?>
 
 <?php
