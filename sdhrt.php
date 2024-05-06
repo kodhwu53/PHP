@@ -8,7 +8,7 @@ fclose($myfle);
 ?>
 
 <?php
-// Start the seion
+// Start the sion
 session_start();
 ?>
 <!DOCTYPE html>
